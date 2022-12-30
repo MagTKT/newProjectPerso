@@ -1,0 +1,754 @@
+@layer base {
+    .text-style-desktop-title-h-1-60-px {
+        font-size:50px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        text-decoration:none;
+    }
+    .text-style-desktop-title-h-1-35-px {
+        font-size:35px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        text-decoration:none;
+    }
+    .text-style-desktop-title-h-2-50-px {
+        font-size:50px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        letter-spacing:0.4px;
+        text-decoration:none;
+    }
+    .text-style-desktop-title-h-2-35-px {
+        font-size:35px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:50px;
+        text-decoration:none;
+    }
+    .text-style-desktop-title-h-2-26-px {
+        font-size:26px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        text-decoration:none;
+    }
+    .text-style-desktop-title-h-2-26-px-underlined {
+        font-size:26px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        text-decoration:underline;
+    }
+    .text-style-desktop-title-h-3 {
+        font-size:35px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:50px;
+        text-decoration:none;
+    }
+    .text-style-desktop-title-h-4 {
+        font-size:13px;
+        font-family:"Sofia Pro";
+        line-height:20px;
+        letter-spacing:2px;
+        text-decoration:none;
+    }
+    .text-style-desktop-title-h-4-18-px {
+        font-size:18px;
+        font-family:"Sofia Pro";
+        line-height:20px;
+        letter-spacing:2px;
+        text-decoration:none;
+    }
+    .text-style-desktop-title-h-5 {
+        font-size:18px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:30px;
+        text-decoration:none;
+    }
+    .text-style-desktop-title-h-6 {
+        font-size:13px;
+        font-family:"Sofia Pro";
+        line-height:20px;
+        letter-spacing:2px;
+        text-decoration:none;
+    }
+    .text-style-desktop-title-h-4-26-px {
+        font-size:26px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:40px;
+        text-decoration:none;
+    }
+    .text-style-desktop-text-22-px-light {
+        font-size:22px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:40px;
+        letter-spacing:0.008em;
+        text-decoration:none;
+    }
+    .text-style-desktop-text-20-px-bold {
+        font-size:20px;
+        font-family:"Sofia Pro";
+        line-height:25px;
+        letter-spacing:0.008em;
+        text-decoration:none;
+    }
+    .text-style-desktop-text-20-px-light {
+        font-size:20px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:25px;
+        letter-spacing:0.008em;
+        text-decoration:none;
+    }
+    .text-style-desktop-text-18-px-light-36-px {
+        font-size:18px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:36px;
+        text-decoration:none;
+    }
+    .text-style-desktop-text-18-px-semi-bold-36-px {
+        font-size:18px;
+        font-family:"Sofia Pro";
+        line-height:36px;
+        text-decoration:none;
+    }
+    .text-style-desktop-text-18-px-light-32-px {
+        font-size:18px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:32px;
+        text-decoration:none;
+    }
+    .text-style-desktop-text-18-px-semibold-32-px {
+        font-size:18px;
+        font-family:"Sofia Pro";
+        line-height:32px;
+        text-decoration:none;
+    }
+    .text-style-desktop-text-16-px-medium {
+        font-size:16px;
+        font-family:"Sofia Pro";
+        font-weight:bold;
+        font-style:normal;
+        line-height:30px;
+        text-decoration:none;
+    }
+    .text-style-desktop-text-16-px-light {
+        font-size:16px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:30px;
+        text-decoration:none;
+    }
+    .text-style-desktop-text-14-px-light {
+        font-size:14px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:22px;
+        text-decoration:none;
+    }
+    .text-style-desktop-text-12-px-medium {
+        font-size:12px;
+        font-family:"Sofia Pro";
+        font-weight:bold;
+        font-style:normal;
+        line-height:22px;
+        text-decoration:none;
+    }
+    .text-style-desktop-text-12-px-light {
+        font-size:12px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:20px;
+        text-decoration:none;
+    }
+    .text-style-desktop-text-12-px-light-underline {
+        font-size:12px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:20px;
+        text-decoration:underline;
+    }
+    .text-style-desktop-link-13-px {
+        font-size:12px;
+        font-family:"Sofia Pro";
+        line-height:20px;
+        letter-spacing:1px;
+        text-decoration:none;
+    }
+    .text-style-desktop-input-16-px-light-32-px {
+        font-size:18px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:32px;
+        text-decoration:none;
+    }
+    .text-style-desktop-input-12-px {
+        font-size:12px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:22px;
+        letter-spacing:0.2px;
+        text-decoration:none;
+    }
+    .text-style-desktop-button-13-px {
+        font-size:13px;
+        font-family:"Sofia Pro";
+        line-height:20px;
+        letter-spacing:2px;
+        text-decoration:none;
+    }
+    .text-style-desktop-button-12-px {
+        font-size:12px;
+        font-family:"Sofia Pro";
+        letter-spacing:0.6px;
+        text-decoration:none;
+    }
+    .text-style-desktop-button-underline-12-px {
+        font-size:12px;
+        font-family:"Sofia Pro";
+        font-weight:normal;
+        font-style:normal;
+        line-height:20px;
+        letter-spacing:0.4px;
+        text-decoration:underline;
+    }
+    .text-style-desktop-button-15-px-underline {
+        font-size:15px;
+        font-family:"Sofia Pro";
+        font-weight:bold;
+        font-style:normal;
+        line-height:26px;
+        letter-spacing:0.4px;
+        text-decoration:underline;
+    }
+    .text-style-desktop-button-15-px {
+        font-size:15px;
+        font-family:"Sofia Pro";
+        font-weight:bold;
+        font-style:normal;
+        line-height:26px;
+        letter-spacing:0.4px;
+        text-decoration:none;
+    }
+    .text-style-desktop-date-12-px {
+        font-size:12px;
+        font-family:"Sofia Pro";
+        line-height:22px;
+        letter-spacing:2px;
+        text-decoration:none;
+    }
+    .text-style-mobile-title-h-1-60-px {
+        font-size:45px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        text-decoration:none;
+    }
+    .text-style-mobile-title-h-2-50-px {
+        font-size:40px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        letter-spacing:0.4px;
+        text-decoration:none;
+    }
+    .text-style-mobile-title-h-3 {
+        font-size:28px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:50px;
+        text-decoration:none;
+    }
+    .text-style-mobile-title-h-2-50-px-bis {
+        font-size:30px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        letter-spacing:0.4px;
+        text-decoration:none;
+    }
+    .text-style-mobile-title-h-2-35-px {
+        font-size:28px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        text-decoration:none;
+    }
+    .text-style-mobile-title-h-1-35-px {
+        font-size:30px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        text-decoration:none;
+    }
+    .text-style-mobile-text-20-px-bold {
+        font-size:18px;
+        font-family:"Sofia Pro";
+        line-height:22px;
+        letter-spacing:0.008em;
+        text-decoration:none;
+    }
+    .text-style-mobile-text-20-px-light {
+        font-size:18px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:22px;
+        letter-spacing:0.008em;
+        text-decoration:none;
+    }
+    .text-style-mobile-text-18-px-light-36-px {
+        font-size:16px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:34px;
+        text-decoration:none;
+    }
+    .text-style-mobile-text-18-px-semi-bold-36-px {
+        font-size:16px;
+        font-family:"Sofia Pro";
+        line-height:34px;
+        text-decoration:none;
+    }
+    .text-style-mobile-text-18-px-light-32-px {
+        font-size:16px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:30px;
+        text-decoration:none;
+    }
+    .text-style-mobile-text-18-px-semi-bold-32-px {
+        font-size:16px;
+        font-family:"Sofia Pro";
+        line-height:30px;
+        text-decoration:none;
+    }
+    .text-style-mobile-text-22-px-light {
+        font-size:20px;
+        font-family:"Sofia Pro";
+        font-weight:lighter;
+        font-style:normal;
+        line-height:36px;
+        letter-spacing:0.008em;
+        text-decoration:none;
+    }
+    .bouton_principal{
+        background: red;
+        width: 228px;
+        height: 60px;
+        padding: 20px;
+        box-shadow: 0px 20px 24px rgba(255, 86, 74, 0.25);
+        border-radius: 10px;
+    }
+    .gradient_blue{
+        background: linear-gradient(75.97deg, #001726 49.13%, #052C46 109.49%);
+    }
+    .content-menu-item.active{
+      color: orangered;
+    }
+    .content-menu-item.active:before{
+      background: orangered;
+    }
+    .content-menu-item::before{
+      content: "";
+      display: inline-block;
+      vertical-align: baseline;
+      width: 30px;
+      height: 2px;;
+      margin-right: 6px;
+      transition: all .2s;
+    }
+    #menu-menu{
+      display:flex;
+    }
+    .menu-item{
+      color: white;
+      padding: 20px;
+      font-size:20px;
+      font-family:"Sofia Pro";
+      line-height:20px;
+      letter-spacing:2px;
+      text-decoration:none;
+    }
+    .menu-item:hover{
+      color: orangered;
+    }
+    .back-contact{
+      background: #fff;
+      border: 1px solid #FAFAFA;
+      box-sizing: border-box;
+      box-shadow: 0px 10px 20px rgb(0 0 0 / 10%);
+      border-radius: 10px;
+    }
+    .form .name{
+      margin: 15px 0px;
+    }
+    .form input{
+      border: 2px solid #FAFAFA;
+      height: 52px;
+      border-radius: 10px;
+      background-color: #fff;
+      width: 100%;
+    }
+    .form textarea{
+      border: 2px solid #FAFAFA;
+      border-radius: 10px;
+      background-color: #fff;
+      width: 100%;
+    }
+     .form select{
+      border: 2px solid #FAFAFA;
+      border-radius: 10px;
+      background-color: #fff;
+      width: 100%;
+      padding: 14px 0;
+    }
+    .wpcf7-not-valid-tip{
+      font-size: 12px;
+    }
+    .other{
+      /* padding: 14px 45px !important; */
+      margin-bottom: 20px;
+    }
+    .bouton_principal_form{
+      background: red;
+      width: 100%;
+      /* padding: 14px 150px; */
+      box-shadow: 0px 20px 24px rgba(255, 86, 74, 0.25);
+      border:none !important;
+      background-color:red !important;
+      color:white;
+      margin: 25px 0px;
+  }
+  .wpcf7-spinner{
+    display: block;
+    margin: 0 auto;
+  }
+  .hamburger .line{
+    width: 30px;
+    height: 3px;
+    background: white;
+    margin: 4px auto;
+    transition: all 0.3s ease-in-out;
+    border-radius: 5px;
+    /* margin-left: 300px; */
+  }
+  
+  .hamburger.isactive .line:nth-child(2) {
+    opacity: 0;
+  }
+  
+  .hamburger.isactive .line:nth-child(1) {
+    transform: translateY(0px) rotate(45deg);
+  }
+  
+  .hamburger.isactive .line:nth-child(3) {
+    transform: translateY(-14px) rotate(-45deg);
+  }
+  #menu {
+    transition: all 2s ease-in-out;
+    margin-top: 2.5rem;
+    margin-right: -65px;
+  }
+  
+  #menu.active {
+    display: block;
+    animation: fade .5s;
+  }
+  
+  @keyframes fade {
+    from{transform: translateX(200px); opacity: 0;}
+    to{transform: translateX(0px); opacity: 1;}
+  }
+  .entry-content h2{
+        font-size:26px;
+        font-family:"Recoleta";
+        font-weight:lighter;
+        font-style:normal;
+        text-decoration:none;
+        margin: 25px 0;
+  }
+}
+
+/* font */
+@font-face {
+    font-family: 'SofiaPro';
+    src: url('resources/fonts/font/SofiaProRegular.eot');
+    src: url('resources/fonts/font/SofiaProRegular.eot?#iefix') format('embedded-opentype'),
+        url('resources/fonts/font/SofiaProRegular.woff2') format('woff2'),
+        url('resources/fonts/font/SofiaProRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SofiaPro';
+    src: url('resources/fonts/font/SofiaProSemiBold.eot');
+    src: url('resources/fonts/font/SofiaProSemiBold.eot?#iefix') format('embedded-opentype'),
+        url('resources/fonts/font/SofiaProSemiBold.woff2') format('woff2'),
+        url('resources/fonts/font/SofiaProSemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SofiaPro';
+    src: url('resources/fonts/font/SofiaProMedium.eot');
+    src: url('resources/fonts/font/SofiaProMedium.eot?#iefix') format('embedded-opentype'),
+        url('resources/fonts/font/SofiaProMedium.woff2') format('woff2'),
+        url('resources/fonts/font/SofiaProMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SofiaPro';
+    src: url('resources/fonts/font/SofiaProLight.eot');
+    src: url('resources/fonts/font/SofiaProLight.eot?#iefix') format('embedded-opentype'),
+        url('resources/fonts/font/SofiaProLight.woff2') format('woff2'),
+        url('resources/fonts/font/SofiaProLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* @media querie  */
+@media (min-width: 1800px){
+    .mx-auto-120px{
+        margin-left: 120px;
+        margin-right: 120px;
+    }
+    .mention-auto{
+        margin-left: 320px;
+        margin-right: 320px;
+    }
+}
+@media (max-width: 1799px){
+    .mx-auto-80px{
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+    .mention-auto{
+        margin-left: 260px;
+        margin-right: 260px;
+    }
+}
+@media (max-width: 1024px){
+    .mx-auto-40px {
+        margin-left: 60px;
+        margin-right: 60px;
+    }
+    .mention-auto{
+        margin-left: 132px;
+        margin-right: 132px;
+    }
+}
+@media (max-width: 768px) {
+    .mx-auto-20px {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .mention-auto{
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+@media (max-width: 549px) {
+    .mx-auto-20px {
+        margin-left: 20px;
+        margin-right: 20px;
+    }  
+    .mobile{
+        display:none;
+    } 
+    .custom input{
+        width: 335px;
+    }
+    .mention-auto{
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../resources/fonts/icomoon.eot');
+    src:  url('../resources/fonts/icomoon.eot') format('embedded-opentype'),
+          url('../resources/fonts/icomoon.ttf') format('truetype'),
+          url('../resources/fonts/icomoon.woff') format('woff'),
+          url('../resources/fonts/icomoon.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    font-family: 'icomoon' !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 0.5;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-home:before {
+    content: "\e900";
+  }
+  .icon-pencil:before {
+    content: "\e905";
+  }
+  .icon-pencil2:before {
+    content: "\e906";
+  }
+  .icon-quill:before {
+    content: "\e907";
+  }
+  .icon-pen:before {
+    content: "\e908";
+  }
+  .icon-image:before {
+    content: "\e90d";
+  }
+  .icon-camera:before {
+    content: "\e90f";
+  }
+  .icon-video-camera:before {
+    content: "\e914";
+  }
+  .icon-spades:before {
+    content: "\e917";
+  }
+  .icon-clubs:before {
+    content: "\e918";
+  }
+  .icon-diamonds:before {
+    content: "\e919";
+  }
+  .icon-connection:before {
+    content: "\e91b";
+  }
+  .icon-book:before {
+    content: "\e91f";
+  }
+  .icon-books:before {
+    content: "\e920";
+  }
+  .icon-library:before {
+    content: "\e921";
+  }
+  .icon-credit-card:before {
+    content: "\e93f";
+  }
+  .icon-phone:before {
+    content: "\e942";
+  }
+  .icon-envelop:before {
+    content: "\e945";
+  }
+  .icon-location2:before {
+    content: "\e948";
+  }
+  .icon-map2:before {
+    content: "\e94c";
+  }
+  .icon-bubble2:before {
+    content: "\e96e";
+  }
+  .icon-user:before {
+    content: "\e971";
+  }
+  .icon-user-tie:before {
+    content: "\e976";
+  }
+  .icon-spinner:before {
+    content: "\e97a";
+  }
+  .icon-spinner9:before {
+    content: "\e982";
+  }
+  .icon-key:before {
+    content: "\e98d";
+  }
+  .icon-sphere:before {
+    content: "\e9c9";
+  }
+  .icon-attachment:before {
+    content: "\e9cd";
+  }
+  .icon-eye:before {
+    content: "\e9ce";
+  }
+  .icon-plus:before {
+    content: "\ea0a";
+  }
+  .icon-minus:before {
+    content: "\ea0b";
+  }
+  .icon-cross:before {
+    content: "\ea0f";
+  }
+  .icon-checkmark:before {
+    content: "\ea10";
+  }
+  .icon-enter:before {
+    content: "\ea13";
+  }
+  .icon-circle-down:before {
+    content: "\ea43";
+  }
+  .icon-mail4:before {
+    content: "\ea86";
+  }
+  .icon-google-plus:before {
+    content: "\ea8b";
+  }
+  .icon-google-drive:before {
+    content: "\ea8f";
+  }
+  .icon-facebook:before {
+    content: "\ea90";
+  }
+  .icon-instagram:before {
+    content: "\ea92";
+  }
+  .icon-whatsapp:before {
+    content: "\ea93";
+  }
+  .icon-twitter:before {
+    content: "\ea96";
+  }
+  .icon-github:before {
+    content: "\eab0";
+  }
+  
